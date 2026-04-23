@@ -1,5 +1,4 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on<br><br>Full-stack web applications<br>AI-powered tools & real-world problem-solving projects<br><br>🤝 I’m looking for help with<br><br>System design & scalable backend architecture<br>Improving AI/ML integration in applications<br><br>🌱 I’m currently learning<br><br>Advanced React & FastAPI<br>Java (core → advanced)<br>Data Science concepts (NumPy, Pandas, ML basics)<br><br>💬 Ask me about<br><br>C++, JavaScript, OOP concepts<br>Full-stack development (React + FastAPI)<br>Building real-world projects<br><br>⚡ Fun fact<br><br>I enjoy turning ideas into complete working systems, not just prototypes
+
 
 
 ## 🌐 Socials:
